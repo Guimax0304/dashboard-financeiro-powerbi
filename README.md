@@ -50,7 +50,7 @@ Simular uma demanda real da área financeira, transformando uma base de dados fi
 dashboard-financeiro-powerbi/
 │
 ├── dashboard_financeiro_contas_a_receber.pbix
-├── base_powerbi_contas_a_receber_profissional.xlsx
+├── base_powerbi_contas_a_receber.xlsx
 ├── README.md
 │
 └── imagens/
